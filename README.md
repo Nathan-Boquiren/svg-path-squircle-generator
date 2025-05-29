@@ -1,4 +1,4 @@
-# SVG Path Squircle Generator
+<h1 align="center">SVG Path Squircle Generator</h1>
 
 A simple and lightweight tool built with **HTML**, **CSS**, and **Vanilla JavaScript** for generating SVG path code for **squircles** — shapes that sit somewhere between a square and a circle.
 
